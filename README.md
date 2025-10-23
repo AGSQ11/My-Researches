@@ -18,7 +18,7 @@ My intent is to maintain **intellectual integrity**, **clarity**, and **objectiv
 Each research file is published in PDF format and focuses on a single topic or hypothesis.  
 Current works include:
 
-- **[Zero-Tax Minimum Wage – Romania](./Zero-Tax-Minimum-Wage-Romania.pdf)**  
+- **[Zero-Tax Minimum Wage – Romania](./docs/Zero-Tax-Minimum-Wage-Romania.pdf)**  
   An analytical paper examining the fiscal, economic, and social implications of implementing a zero-tax threshold for minimum-wage earners in Romania.
 
 Additional topics will be added progressively.
