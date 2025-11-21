@@ -21,6 +21,9 @@ Current works include:
 - **[Zero-Tax Minimum Wage – Romania](./docs/Zero-Tax-Minimum-Wage-Romania.pdf)**  
   An analytical paper examining the fiscal, economic, and social implications of implementing a zero-tax threshold for minimum-wage earners in Romania.
 
+- **[Heavy Metal Neurotoxicity and Cerebral Clearance Collapse](./docs/Heavy-Metal-Neurotoxicity-and-Cerebral-Clearance-Collapse.pdf)**  
+  An analytical paper examining the risks associated with Aluminium poisoning. Substance that can also be found in pediatric vaccines of newbordns in Romania.
+
 Additional topics will be added progressively.
 
 ---
